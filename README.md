@@ -1,5 +1,5 @@
 # NimbleNinjaDemo
-This Video tutorial is about iPhone Game Development :- Nimble Ninja | Super Mario 3D Game | SpriteKit | iOS Game Tutorials Ep-1 with language swift 5 and Xcode 12.5
+This Video tutorial is about iPhone Game Development :- Nimble Ninja | Super Mario 3D Game | SpriteKit | iOS Game Tutorials with language swift 5 and Xcode 12.5
  
 This project is latest version in 2020. If this video helped you, recommend to subscribe this channel for more tutorials.
 
